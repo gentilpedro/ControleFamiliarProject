@@ -1,0 +1,6 @@
+@ControleFamiliarAPI_HostAddress = http://localhost:5216
+
+GET {{ControleFamiliarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
